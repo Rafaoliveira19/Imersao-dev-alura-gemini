@@ -35,6 +35,5 @@ Esta aplicação web permite pesquisar por livros da saga Duna de Frank Herbert.
 ## Contribuições
 Contribuições são bem-vindas! Abra um issue ou pull request.
 
-## Licença
-[Insira aqui a licença utilizada]
+
 
